@@ -37,7 +37,7 @@ php artisan key:generate
 ```
 na raiz do projeto. Aliás todos os comandos são executados na raiz do projeto.
 
-Por fim, crie sua base de escolha e informe os dados de acesso no arquivo `.env` e execute as migrações do projeto:
+Por fim, crie sua base de dados no banco de sua escolha e informe os dados de acesso no arquivo `.env` e execute as migrações do projeto:
 
 ```
 php artisan migrate
